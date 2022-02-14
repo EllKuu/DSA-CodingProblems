@@ -45,7 +45,7 @@ public class ListNode {
     }
 }
 
-func hasCycle(_head: ListNode?) -> Bool{
+func hasCycle(_ head: ListNode?) -> Bool{
     var fast = head
     var slow = head
     

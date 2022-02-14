@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='array-2Sum-E'/>
+        <page name='array-2SumSortedInput-E'/>
+        <page name='array-BuySellStock-E'/>
+        <page name='array-ContainsDuplicate-E'/>
+        <page name='array-MaxSubarray-E'/>
+        <page name='array-3Sum-M'/>
+        <page name='array-ContainerWithMostWater-M'/>
+        <page name='array-MaxProductSubarray-M'/>
+        <page name='array-SearchInRotatedSortedArray'/>
+        <page name='array-FindMinInRotatedSortedArray-M'/>
+        <page name='string-ValidAnagram-E'/>
+        <page name='string-ValidPalindrome-E'/>
+        <page name='string-LongestRepeatingCharacterReplacement-M'/>
+        <page name='string-LongestSubstringWithoutRepeatingChars-M'/>
+        <page name='string-PalindromicSubstrings-M'/>
+        <page name='string-LongestPalindrome-M'/>
+        <page name='string-MinWindowSubstring-H'/>
+        <page name='string-GroupAnagrams-M'/>
+        <page name='linkedList-DetectCycle-E'/>
+        <page name='linkedList-ReverseLinkedList-E'/>
+    </pages>
+</playground>

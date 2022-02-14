@@ -74,7 +74,7 @@ func longRepeat1(_ s: String, _ k: Int) -> Int {
 /*
     Solution 2:
  
-    similar to solution 1 but we can keep track of the max repeating character count of the character that was just added to our map as it might be that character is the most frequent. Keeping track of the maxRepeatChar is a constant time operation and thus speeds up our algorithm. 
+    similar to solution 1 but we can keep track of the max repeating character count of the character that was just added to our map as it might be that character is the most frequent. Keeping track of the maxRepeatChar is a constant time operation and thus speeds up our algorithm.
  */
 
 func longRepeat2(_ s: String, _ k: Int) -> Int {
