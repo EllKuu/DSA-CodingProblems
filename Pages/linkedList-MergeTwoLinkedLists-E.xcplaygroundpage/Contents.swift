@@ -11,6 +11,14 @@ import Foundation
  
  */
 
+public class ListNode {
+    public var val: Int
+    public var next: ListNode?
+    public init(_ val: Int) {
+        self.val = val
+        self.next = nil
+    }
+}
 
 // Time: O(n) Space: O(1)
 func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
@@ -49,7 +57,7 @@ func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
 
 // Time: O(n) Space O(n)
 func mergeTwoListsRecursive(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
-        if list1 == nil && list2 == nil { return nil }
+        if l1 == nil && l2 == nil { return nil }
         if(l1 == nil) {return l2}
         if(l2 == nil) {return l1}
     
