@@ -4,6 +4,7 @@
         <page name='array-2Sum-E'/>
         <page name='array-2SumSortedInput-E'/>
         <page name='array-BuySellStock-E'/>
+        <page name='array-MergeSortedArray-E'/>
         <page name='array-ContainsDuplicate-E'/>
         <page name='array-MaxSubarray-E'/>
         <page name='array-3Sum-M'/>
@@ -21,5 +22,21 @@
         <page name='string-GroupAnagrams-M'/>
         <page name='linkedList-DetectCycle-E'/>
         <page name='linkedList-ReverseLinkedList-E'/>
+        <page name='linkedList-MergeTwoLinkedLists-E'/>
+        <page name='linkedList-ReorderList-M'/>
+        <page name='linkedList-RemoveNthNode-M'/>
+        <page name='linkedList-MergeKSortedLists-H'/>
+        <page name='Tree-MaxDepthBT-E'/>
+        <page name='Tree-SameTree-E'/>
+        <page name='Tree-InvertTree-E'/>
+        <page name='Tree-SubtreeOfAnotherTree-E'/>
+        <page name='Tree-LowestCommonAncestor-E'/>
+        <page name='Tree-KthSmallestElementInBST-M'/>
+        <page name='Tree-ValidateBST-M'/>
+        <page name='Tree-BinaryTreeLevelOrderTraversal-M'/>
+        <page name='Tree-MaxPathSum-H'/>
+        <page name='Tree-ConstructTreeFromPreorderInorder-M'/>
+        <page name='Tree-ImplementTrie-M'/>
+        <page name='Tree-AddSearchWord-M'/>
     </pages>
 </playground>
