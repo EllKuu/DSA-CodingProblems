@@ -4,6 +4,7 @@
         <page name='array-2Sum-E'/>
         <page name='array-2SumSortedInput-E'/>
         <page name='array-BuySellStock-E'/>
+        <page name='array-IntersectionOfTwoArraysII-E'/>
         <page name='array-MergeSortedArray-E'/>
         <page name='array-ContainsDuplicate-E'/>
         <page name='array-MaxSubarray-E'/>
