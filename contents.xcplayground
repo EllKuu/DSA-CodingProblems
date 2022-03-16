@@ -9,6 +9,7 @@
         <page name='array-ContainsDuplicate-E'/>
         <page name='array-MaxSubarray-E'/>
         <page name='array-3Sum-M'/>
+        <page name='array-4Sum-M'/>
         <page name='array-ContainerWithMostWater-M'/>
         <page name='array-MaxProductSubarray-M'/>
         <page name='array-SearchInRotatedSortedArray'/>
