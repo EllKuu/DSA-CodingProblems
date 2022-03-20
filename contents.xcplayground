@@ -14,6 +14,7 @@
         <page name='array-MaxProductSubarray-M'/>
         <page name='array-SearchInRotatedSortedArray'/>
         <page name='array-FindMinInRotatedSortedArray-M'/>
+        <page name='array-Permutations-M'/>
         <page name='string-ValidAnagram-E'/>
         <page name='string-ValidPalindrome-E'/>
         <page name='string-LongestRepeatingCharacterReplacement-M'/>
