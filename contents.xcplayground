@@ -32,6 +32,7 @@
         <page name='Tree-MaxDepthBT-E'/>
         <page name='Tree-SameTree-E'/>
         <page name='Tree-InvertTree-E'/>
+        <page name='Tree-MergeTwoBinaryTrees-E'/>
         <page name='Tree-SubtreeOfAnotherTree-E'/>
         <page name='Tree-LowestCommonAncestor-E'/>
         <page name='Tree-KthSmallestElementInBST-M'/>
