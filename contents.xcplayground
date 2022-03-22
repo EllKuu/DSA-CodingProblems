@@ -42,5 +42,6 @@
         <page name='Tree-ConstructTreeFromPreorderInorder-M'/>
         <page name='Tree-ImplementTrie-M'/>
         <page name='Tree-AddSearchWord-M'/>
+        <page name='Tree-DeleteNodeInBST-M'/>
     </pages>
 </playground>
