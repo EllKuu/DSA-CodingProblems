@@ -40,8 +40,9 @@
         <page name='Tree-BinaryTreeLevelOrderTraversal-M'/>
         <page name='Tree-MaxPathSum-H'/>
         <page name='Tree-ConstructTreeFromPreorderInorder-M'/>
+        <page name='Tree-InsertIntoBST-M'/>
+        <page name='Tree-DeleteNodeInBST-M'/>
         <page name='Tree-ImplementTrie-M'/>
         <page name='Tree-AddSearchWord-M'/>
-        <page name='Tree-DeleteNodeInBST-M'/>
     </pages>
 </playground>
