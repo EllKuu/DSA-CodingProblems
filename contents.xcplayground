@@ -42,6 +42,7 @@
         <page name='Tree-ConstructTreeFromPreorderInorder-M'/>
         <page name='Tree-InsertIntoBST-M'/>
         <page name='Tree-DeleteNodeInBST-M'/>
+        <page name='Tree-MergeIntervals-M'/>
         <page name='Tree-ImplementTrie-M'/>
         <page name='Tree-AddSearchWord-M'/>
     </pages>
